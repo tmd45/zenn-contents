@@ -6,6 +6,6 @@
   "author": "tmd45 <tmd45@otegami.jpn.org>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.79"
+    "zenn-cli": "^0.4.8"
   }
 }
